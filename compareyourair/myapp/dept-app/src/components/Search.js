@@ -1,15 +1,12 @@
 import React from 'react'
+import { useState } from 'react';
 
 function Search(){
 return <div>
-  <form>
-      <p>
-          <label>Search:</label> <input type="text" name="search"></input>
-          <input type="submit" value="Submit" />
-      </p>
-    
-  </form>
+          <label>Type the city here: </label>
+          <input type="text"></input>
+          <input type="submit" value="Submit" /> 
 </div>
-}
+};
 
 export default Search;
