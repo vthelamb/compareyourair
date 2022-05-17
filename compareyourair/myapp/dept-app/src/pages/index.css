@@ -1,0 +1,22 @@
+body {
+  background-image: linear-gradient(to right, #7634bc, #4581ea);
+  font-family:Arial, Helvetica, sans-serif;
+  color: aliceblue;
+  text-align: center;
+};
+
+.inputstyle{
+  background-color: beige;
+  border: 1px solid red;
+  font-style: italic;
+  cursor: pointer;
+}
+.title {
+  font-size: 50px;
+  margin-top: 150px;
+}
+
+
+
+
+
