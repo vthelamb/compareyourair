@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/compareyourair/static/css/main.65e5a295.css",
+    "main.js": "/compareyourair/static/js/main.071c569b.js",
+    "index.html": "/compareyourair/index.html",
+    "main.65e5a295.css.map": "/compareyourair/static/css/main.65e5a295.css.map",
+    "main.071c569b.js.map": "/compareyourair/static/js/main.071c569b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e5a295.css",
+    "static/js/main.071c569b.js"
+  ]
+}
