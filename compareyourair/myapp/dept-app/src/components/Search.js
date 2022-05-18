@@ -49,16 +49,17 @@ function Search(props) {
         <label>Type the city here: </label>
         <input
           type="text"
-          className="col-md-24 input"
           value={text}
           onChange={(e) => onChangeHandler(e.target.value)}
         ></input>
         <input type="submit" value="Submit" />
-        <ul className="inputstyle">
+        <div>
+        <ul>
           {suggestions.map((suggestion) => (
             <li onClick={(e) => onClickHandler(suggestion)}>{suggestion}</li>
           ))}
         </ul>
+        </div>
       </form>
     </div>
   );

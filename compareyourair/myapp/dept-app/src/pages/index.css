@@ -5,12 +5,13 @@ body {
   text-align: center;
 };
 
-.inputstyle{
+.input-style{
   background-color: beige;
-  border: 1px solid red;
+  border: 1px solid red;  
   font-style: italic;
   cursor: pointer;
 }
+
 .title {
   font-size: 50px;
   margin-top: 150px;
